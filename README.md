@@ -1,6 +1,6 @@
 # Portfolio Backend
 Proyecto de Backend con Java y Spring Boot
-Este proyecto es un backend desarrollado en Java utilizando el framework Spring Boot. El objetivo principal de este proyecto es proporcionar una API para la gestión de datos y funcionalidades específicas, tambien requiere Java 8.
+Este proyecto es un backend desarrollado en Java utilizando el framework Spring Boot, diseñada específicamente para trabajar con Java 8. Su principal objetivo es proporcionar una API para la gestión de datos y funcionalidades específicas.
 
 # Documentación con Swagger
 La documentación de la API está implementada utilizando Swagger. Swagger proporciona una interfaz intuitiva y fácil de usar para explorar y probar los endpoints de la API. Puede acceder a la documentación de la API navegando a `http://localhost:8080/swagger-ui.html` una vez que el proyecto esté en ejecución.
